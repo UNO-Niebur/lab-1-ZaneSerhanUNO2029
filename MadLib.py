@@ -1,6 +1,6 @@
 #MadLib.py
-#Name:
-#Date:
+#Name:Zane Serhan
+#Date:1/20/2026
 #Assignment:
 
 def main():

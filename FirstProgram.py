@@ -1,7 +1,7 @@
 #FirstProgram.py
 #Name:Zane Serhan
-#Date:1/20/2025
-#Assignment:LAB1
+#Date:1/20/2026
+#Assignment:LAB1 FirstProgram
 #Purpose: Write a simple program to greet and interact with user.
 
 def main():
